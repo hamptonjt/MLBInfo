@@ -1,0 +1,15 @@
+{
+  "name": "yankeehistory",
+  "version": "1.0.0",
+  "description": "Tweet about a fact 'on this day in New York Yankees history'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jerry Hampton",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2"
+  }
+}
